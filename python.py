@@ -5,3 +5,8 @@ if b=>f:
   print(f)
 else:
   print("wrong")
+def c():
+  if f=>b:
+    print(f)
+  else:
+    print(wrong)
