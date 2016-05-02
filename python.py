@@ -10,3 +10,4 @@ def c():
     print(f)
   else:
     print(wrong)
+  c(print)
